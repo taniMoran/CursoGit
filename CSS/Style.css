@@ -1,0 +1,15 @@
+p{font-size: 21px; font-family: Verdana; border-top-style: dashed;border-bottom-style: double; text-align: center;}
+header{text-align: center; background-color: antiquewhite;}
+ul{background-color: aquamarine; text-align: center; list-style-image: url(https://i.ibb.co/WcTW962/flecha-correcta.png);}
+ol{background-color: bisque;}
+
+.alternativo{color: red;}
+.subrayado{text-decoration: underline; }
+.centrada:hover img {
+    transform: scale(1.1);
+    }
+l
+.centrada{display: block; margin-left: auto; margin-right: auto; width: 50%;text-align: center;}
+H2{text-align: center;}
+#lista1{}
+#lista3{list-style-type: decimal-leading-zero;}
